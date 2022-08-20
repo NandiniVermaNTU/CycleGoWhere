@@ -12,6 +12,7 @@ https://drive.google.com/file/d/1clJDCozvkDFfB3jHUMtYMK5QjUdx5jlj/view?usp=shari
 - Used MongoDB and Atlas for Database 
 - Used Flutter and Android Studio for Front End
 - Used GoogleMapsAPI (Front End), OneMapAPI and DataGovMallAPI (Back End)
+- DigitalOcean was used for cloud deployment
 
 ## Good Software Development Practices
 - Feature Branch Approach -> Work in isolation without overwriting others’ code to increase code stability
