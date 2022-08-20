@@ -1,5 +1,12 @@
 # CycleGoWhere
 - A mobile software application for casual and unacquainted cyclists which generates cycling routes based on a user's preferences, discovers scenic spots and bicycle parking areas and enables users to connect with each other and share their cycling journeys. 
+
+## Presentation slides
+https://docs.google.com/presentation/d/1XLcnOx4tFheCGT_iXSEZDN6Ra88APu_0raWQy5FLTEw/edit?usp=sharing
+
+## Video Demo of Mobile Application
+https://drive.google.com/file/d/1clJDCozvkDFfB3jHUMtYMK5QjUdx5jlj/view?usp=sharing
+
 - Used Python, Flask and Heroku for App Logic Layer (Back End)
 - Used MongoDB and Atlas for Database 
 - Used Flutter and Android Studio for Front End
