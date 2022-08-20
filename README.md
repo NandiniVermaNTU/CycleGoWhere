@@ -7,6 +7,7 @@ https://docs.google.com/presentation/d/1XLcnOx4tFheCGT_iXSEZDN6Ra88APu_0raWQy5FL
 ## Video Demo of Mobile Application
 https://drive.google.com/file/d/1clJDCozvkDFfB3jHUMtYMK5QjUdx5jlj/view?usp=sharing
 
+## Features
 - Used Python, Flask and Heroku for App Logic Layer (Back End)
 - Used MongoDB and Atlas for Database 
 - Used Flutter and Android Studio for Front End
