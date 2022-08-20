@@ -7,4 +7,6 @@
 
 ## Good Software Development Practices
 - Feature Branch Approach -> Work in isolation without overwriting others’ code to increase code stability
-- We did not use interfaces in our code as clients should not be forced 
+- We did not use interfaces in our code as clients should not be forced to use interfaces that they do not use
+- Performed Black Box (Equivalence class testing) and White Box testing to fully test the efficiency and functionality of our application
+
